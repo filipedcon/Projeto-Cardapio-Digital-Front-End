@@ -15,8 +15,7 @@ Criação de front-end para projeto de cardápio digital utilizando TypeScript e
 * React Query
 * Axios
 
-# Utilização do sistema com o <a href="https://github.com/filipedcon/Projeto-Cardapio-Digital-Back-End"><strong>back end</strong></a> funcional
-
+# Utilização do sistema com o <a href="https://github.com/filipedcon/Projeto-Cardapio-Digital-Back-End"><strong>back end</strong></a>
 https://github.com/user-attachments/assets/79f89fbc-21c2-48c5-a789-ed82f9a21cf9
 
 # Código em vídeo
